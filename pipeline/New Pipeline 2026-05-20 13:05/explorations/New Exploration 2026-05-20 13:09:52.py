@@ -17,3 +17,8 @@
 
 # MAGIC %sql
 # MAGIC select * from catalog_dab.schema_dab.dlt_bronze
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC drop table dlt_catalog.dlt_schema.dlt_bronze
